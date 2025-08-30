@@ -15,3 +15,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 ### Example
 If p = 1000, t = 2 years, r = 5%  
 Then, simple interest = 1000 * 2 * 5 / 100 = 100
+
+2023 XYZ, Inc.
